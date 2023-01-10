@@ -40,4 +40,5 @@
 ![image](https://github.com/EunJinStar/EVSTALK_SKY/blob/main/images/그림5.png)
 <br>
 
-## 🖥 화면 구성
+## 👨‍👩‍👦‍👦 팀원 역할
+![image](https://github.com/EunJinStar/EVSTALK_SKY/blob/main/images/그림6.png)
